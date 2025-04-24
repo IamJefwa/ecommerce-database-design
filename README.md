@@ -36,3 +36,4 @@ All table definitions and relationships are available in [ecommerce.sql](./ecomm
 
 ## 🤝 Group Members
 Add names and roles of your group members here:
+
