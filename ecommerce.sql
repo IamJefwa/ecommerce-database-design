@@ -67,7 +67,7 @@ CREATE TABLE product_item (
 CREATE TABLE product_variation (
     variation_id INT PRIMARY KEY AUTO_INCREMENT,
     product_id INT,
-    variation_type VARCHAR(50),
+    variation_type VARCHAR(100),
     FOREIGN KEY (product_id) REFERENCES product(product_id)
 );
 
